@@ -32,6 +32,7 @@ For example, collecting a list of student birth dates to understand how many stu
 
 **Input:**
 Enter the numbers you wish to add (separated by spaces), then press enter: 56 12 78 22 45
+
 Add more numbers (separated by spaces), or enter 'done' to sort your list: done
 
 **Output:**
